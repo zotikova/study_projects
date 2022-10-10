@@ -1,12 +1,7 @@
 # Name: Video2X Configuration File
 # Creator: K4YT3X
-# Edited: lenardcarroll
-# Date Created: October 23, 2018
-# Last Modified: February 19, 2022
-# Values here are the default values. Change the value here to
-#   save the default value permanently.
-# Items commented out are parameters irrelevant to this context
-#   or parameters handled by Video2X internally.
+# Edited: zotikova
+
 waifu2x_ncnn_vulkan:
   path: '/content/waifu2x-ncnn-vulkan-20200818-linux/waifu2x-ncnn-vulkan'
   v: null # verbose output
